@@ -1,3 +1,2 @@
-wq
-:wq
-
+Hello World
+I am Kotey from Ghana
